@@ -2,149 +2,203 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Raluca Lefticaru on Raluca Lefticaru</title>
-    <link>/</link>
+    <link>https://ralucalefticaru.github.io/</link>
     <description>Recent content in Raluca Lefticaru on Raluca Lefticaru</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0100</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title></title>
-      <link>/to_do/hero_carousel/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +0100</pubDate>
+      <title>RoboTest</title>
+      <link>https://ralucalefticaru.github.io/project/robotest/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0100</pubDate>
       
-      <guid>/to_do/hero_carousel/</guid>
+      <guid>https://ralucalefticaru.github.io/project/robotest/</guid>
       <description></description>
     </item>
     
     <item>
-      <title></title>
-      <link>/to_do/skills/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0100</pubDate>
+      <title>SSBSE 2019 conference website has been launched</title>
+      <link>https://ralucalefticaru.github.io/post/ssbse2019/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0100</pubDate>
       
-      <guid>/to_do/skills/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Selected Talks</title>
-      <link>/to_do/talks_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
-      
-      <guid>/to_do/talks_selected/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>/to_do/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
-      
-      <guid>/to_do/talks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent Posts</title>
-      <link>/to_do/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
-      
-      <guid>/to_do/posts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Custom Section</title>
-      <link>/to_do/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
-      
-      <guid>/to_do/teaching/</guid>
-      <description>&lt;p&gt;This is an example of using the &lt;em&gt;custom&lt;/em&gt; widget to create your own homepage section.&lt;/p&gt;
+      <guid>https://ralucalefticaru.github.io/post/ssbse2019/</guid>
+      <description>
 
-&lt;p&gt;To remove this section, either delete &lt;code&gt;content/home/teaching.md&lt;/code&gt; or edit the frontmatter of the file to deactivate the widget by setting &lt;code&gt;active = false&lt;/code&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;11th-symposium-on-search-based-software-engineering&#34;&gt;11th Symposium on Search-Based Software Engineering&lt;/h2&gt;
+
+&lt;h3 id=&#34;tallinn-estonia-31-aug-2-sep-2019&#34;&gt;Tallinn Estonia, 31 Aug - 2 Sep, 2019&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://ssbse19.mines-albi.fr/&#34; target=&#34;_blank&#34;&gt;SSBSE 2019&lt;/a&gt; will be collocated with the &lt;em&gt;27th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering&lt;/em&gt; (&lt;a href=&#34;https://esec-fse19.ut.ee/&#34; target=&#34;_blank&#34;&gt;ESEC/FSE 2019 conference&lt;/a&gt;).&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Conference proceedings: accepted papers will be published in a volume of the Springer &lt;em&gt;Lecture Notes in Computer Science series&lt;/em&gt; (LNCS).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;em&gt;Special issue for best papers:&lt;/em&gt; the authors of best selected symposium papers will be invited to submit extended versions of their papers for a special issue in one of the leading software engineering journals.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;tracks-and-important-dates&#34;&gt;Tracks and Important Dates&lt;/h2&gt;
+
+&lt;h3 id=&#34;research-paper-track&#34;&gt;Research Paper Track&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Abstract submission: &lt;code&gt;March 15, 2019&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Full paper submission: &lt;code&gt;March 22, 2019&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Initial decisions and notification: May 3, 2019&lt;/li&gt;
+&lt;li&gt;Revised paper submission: May 17, 2019&lt;/li&gt;
+&lt;li&gt;Final decisions and notification: May 31, 2019&lt;/li&gt;
+&lt;li&gt;Camera–ready submission: June 15, 2019&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;More details: &lt;a href=&#34;http://ssbse19.mines-albi.fr/tracks.html#research-paper-track&#34; target=&#34;_blank&#34;&gt;http://ssbse19.mines-albi.fr/tracks.html#research-paper-track&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;journal-first-track&#34;&gt;Journal First Track&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Submission: &lt;code&gt;May 1, 2019&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Notification: June 1, 2019&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;short-student-track&#34;&gt;Short &amp;amp; Student Track&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Abstract submission: &lt;code&gt;May 10, 2019&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Paper submission: &lt;code&gt;May 17, 2019&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Author notification: June 14, 2019&lt;/li&gt;
+&lt;li&gt;Camera ready submission: June 21, 2019&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;challenge-track&#34;&gt;Challenge Track&lt;/h3&gt;
+
+&lt;p&gt;The SSBSE Challenge Track is an exciting opportunity for SBSE researchers to apply tools, techniques, and algorithms on real-world software. The participants of the SSBSE Challenge Track will compete for cash prizes totaling &lt;em&gt;1000€&lt;/em&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Submission: &lt;code&gt;June 8, 2019&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Notification: June 25, 2019&lt;/li&gt;
+&lt;li&gt;Camera ready: June 30, 2019&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;More details will follow soon at: &lt;a href=&#34;http://ssbse19.mines-albi.fr/tracks.html&#34; target=&#34;_blank&#34;&gt;http://ssbse19.mines-albi.fr/tracks.html&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Tags</title>
-      <link>/to_do/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0100</pubDate>
-      
-      <guid>/to_do/tags/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RoboTest</title>
-      <link>/project/robotest/</link>
-      <pubDate>Thu, 13 Sep 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/project/robotest/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Testing Identifiable Kernel P Systems using an X-machine Approach</title>
-      <link>/publication/2018_cmc/</link>
+      <link>https://ralucalefticaru.github.io/publication/2018_cmc/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0100</pubDate>
       
-      <guid>/publication/2018_cmc/</guid>
+      <guid>https://ralucalefticaru.github.io/publication/2018_cmc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Generating Complex Paths for Testing from an EFSM</title>
-      <link>/publication/2018_qrs/</link>
+      <link>https://ralucalefticaru.github.io/publication/2018_qrs/</link>
       <pubDate>Mon, 16 Jul 2018 00:00:00 +0100</pubDate>
       
-      <guid>/publication/2018_qrs/</guid>
+      <guid>https://ralucalefticaru.github.io/publication/2018_qrs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>P colonies and kernel P systems</title>
-      <link>/publication/2018_p_colonies/</link>
+      <link>https://ralucalefticaru.github.io/publication/2018_p_colonies/</link>
       <pubDate>Sun, 08 Jul 2018 00:00:00 +0100</pubDate>
       
-      <guid>/publication/2018_p_colonies/</guid>
+      <guid>https://ralucalefticaru.github.io/publication/2018_p_colonies/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Privacy Policy</title>
+      <link>https://ralucalefticaru.github.io/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://ralucalefticaru.github.io/privacy/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Kernel P systems: From modelling to verification and testing</title>
-      <link>/publication/2018_tcs/</link>
+      <link>https://ralucalefticaru.github.io/publication/2018_tcs/</link>
       <pubDate>Wed, 09 May 2018 00:00:00 +0100</pubDate>
       
-      <guid>/publication/2018_tcs/</guid>
+      <guid>https://ralucalefticaru.github.io/publication/2018_tcs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MACPS</title>
-      <link>/project/macps/</link>
+      <link>https://ralucalefticaru.github.io/project/macps/</link>
       <pubDate>Wed, 13 Sep 2017 00:00:00 +0100</pubDate>
       
-      <guid>/project/macps/</guid>
+      <guid>https://ralucalefticaru.github.io/project/macps/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modelling and Validating an Engineering Application in Kernel P Systems</title>
-      <link>/publication/2017_cmc/</link>
+      <link>https://ralucalefticaru.github.io/publication/2017_cmc/</link>
       <pubDate>Wed, 26 Jul 2017 00:00:00 +0100</pubDate>
       
-      <guid>/publication/2017_cmc/</guid>
+      <guid>https://ralucalefticaru.github.io/publication/2017_cmc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards an Integrated Approach to Verification and Model-Based Testing in System Engineering</title>
-      <link>/publication/2017_exter/</link>
+      <link>https://ralucalefticaru.github.io/publication/2017_exter/</link>
       <pubDate>Wed, 21 Jun 2017 00:00:00 +0100</pubDate>
       
-      <guid>/publication/2017_exter/</guid>
+      <guid>https://ralucalefticaru.github.io/publication/2017_exter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MuVeT</title>
+      <link>https://ralucalefticaru.github.io/project/muvet/</link>
+      <pubDate>Tue, 13 Sep 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://ralucalefticaru.github.io/project/muvet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Athena</title>
+      <link>https://ralucalefticaru.github.io/project/athena/</link>
+      <pubDate>Mon, 13 Jun 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://ralucalefticaru.github.io/project/athena/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COSMOS</title>
+      <link>https://ralucalefticaru.github.io/project/cosmos/</link>
+      <pubDate>Sun, 13 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ralucalefticaru.github.io/project/cosmos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Broker@Cloud</title>
+      <link>https://ralucalefticaru.github.io/project/broker/</link>
+      <pubDate>Sun, 13 Sep 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://ralucalefticaru.github.io/project/broker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DEPLOY</title>
+      <link>https://ralucalefticaru.github.io/project/deploy/</link>
+      <pubDate>Thu, 13 Sep 2012 00:00:00 +0100</pubDate>
+      
+      <guid>https://ralucalefticaru.github.io/project/deploy/</guid>
       <description></description>
     </item>
     

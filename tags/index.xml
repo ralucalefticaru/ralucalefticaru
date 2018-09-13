@@ -2,148 +2,157 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Raluca Lefticaru</title>
-    <link>/tags/</link>
+    <link>https://ralucalefticaru.github.io/tags/</link>
     <description>Recent content in Tags on Raluca Lefticaru</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 13 Sep 2017 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ralucalefticaru.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>CPS</title>
-      <link>/tags/cps/</link>
+      <link>https://ralucalefticaru.github.io/tags/cps/</link>
       <pubDate>Wed, 13 Sep 2017 00:00:00 +0100</pubDate>
       
-      <guid>/tags/cps/</guid>
+      <guid>https://ralucalefticaru.github.io/tags/cps/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cloud services</title>
-      <link>/tags/cloud-services/</link>
+      <link>https://ralucalefticaru.github.io/tags/cloud-services/</link>
       <pubDate>Sun, 13 Sep 2015 00:00:00 +0100</pubDate>
       
-      <guid>/tags/cloud-services/</guid>
+      <guid>https://ralucalefticaru.github.io/tags/cloud-services/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Crisis management</title>
-      <link>/tags/crisis-management/</link>
+      <link>https://ralucalefticaru.github.io/tags/crisis-management/</link>
       <pubDate>Mon, 13 Jun 2016 00:00:00 +0100</pubDate>
       
-      <guid>/tags/crisis-management/</guid>
+      <guid>https://ralucalefticaru.github.io/tags/crisis-management/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data science</title>
-      <link>/tags/data-science/</link>
+      <link>https://ralucalefticaru.github.io/tags/data-science/</link>
       <pubDate>Sun, 13 Dec 2015 00:00:00 +0000</pubDate>
       
-      <guid>/tags/data-science/</guid>
+      <guid>https://ralucalefticaru.github.io/tags/data-science/</guid>
       <description></description>
     </item>
     
     <item>
       <title>EPSRC</title>
-      <link>/tags/epsrc/</link>
+      <link>https://ralucalefticaru.github.io/tags/epsrc/</link>
       <pubDate>Thu, 13 Sep 2018 00:00:00 +0100</pubDate>
       
-      <guid>/tags/epsrc/</guid>
+      <guid>https://ralucalefticaru.github.io/tags/epsrc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Event-B</title>
-      <link>/tags/event-b/</link>
+      <link>https://ralucalefticaru.github.io/tags/event-b/</link>
       <pubDate>Thu, 13 Sep 2012 00:00:00 +0100</pubDate>
       
-      <guid>/tags/event-b/</guid>
+      <guid>https://ralucalefticaru.github.io/tags/event-b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FP7</title>
-      <link>/tags/fp7/</link>
+      <link>https://ralucalefticaru.github.io/tags/fp7/</link>
       <pubDate>Mon, 13 Jun 2016 00:00:00 +0100</pubDate>
       
-      <guid>/tags/fp7/</guid>
+      <guid>https://ralucalefticaru.github.io/tags/fp7/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine learning</title>
-      <link>/tags/machine-learning/</link>
+      <link>https://ralucalefticaru.github.io/tags/machine-learning/</link>
       <pubDate>Mon, 13 Jun 2016 00:00:00 +0100</pubDate>
       
-      <guid>/tags/machine-learning/</guid>
+      <guid>https://ralucalefticaru.github.io/tags/machine-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modelling</title>
-      <link>/tags/modelling/</link>
+      <link>https://ralucalefticaru.github.io/tags/modelling/</link>
       <pubDate>Tue, 13 Sep 2011 00:00:00 +0100</pubDate>
       
-      <guid>/tags/modelling/</guid>
+      <guid>https://ralucalefticaru.github.io/tags/modelling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Robotics</title>
-      <link>/tags/robotics/</link>
+      <link>https://ralucalefticaru.github.io/tags/robotics/</link>
       <pubDate>Thu, 13 Sep 2018 00:00:00 +0100</pubDate>
       
-      <guid>/tags/robotics/</guid>
+      <guid>https://ralucalefticaru.github.io/tags/robotics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rodin</title>
-      <link>/tags/rodin/</link>
+      <link>https://ralucalefticaru.github.io/tags/rodin/</link>
       <pubDate>Thu, 13 Sep 2012 00:00:00 +0100</pubDate>
       
-      <guid>/tags/rodin/</guid>
+      <guid>https://ralucalefticaru.github.io/tags/rodin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SBST</title>
-      <link>/tags/sbst/</link>
+      <link>https://ralucalefticaru.github.io/tags/sbst/</link>
       <pubDate>Tue, 13 Sep 2011 00:00:00 +0100</pubDate>
       
-      <guid>/tags/sbst/</guid>
+      <guid>https://ralucalefticaru.github.io/tags/sbst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SSBSE</title>
+      <link>https://ralucalefticaru.github.io/tags/ssbse/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://ralucalefticaru.github.io/tags/ssbse/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Social media</title>
-      <link>/tags/social-media/</link>
+      <link>https://ralucalefticaru.github.io/tags/social-media/</link>
       <pubDate>Mon, 13 Jun 2016 00:00:00 +0100</pubDate>
       
-      <guid>/tags/social-media/</guid>
+      <guid>https://ralucalefticaru.github.io/tags/social-media/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Testing</title>
-      <link>/tags/testing/</link>
+      <link>https://ralucalefticaru.github.io/tags/testing/</link>
       <pubDate>Thu, 13 Sep 2018 00:00:00 +0100</pubDate>
       
-      <guid>/tags/testing/</guid>
+      <guid>https://ralucalefticaru.github.io/tags/testing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Verification</title>
-      <link>/tags/verification/</link>
+      <link>https://ralucalefticaru.github.io/tags/verification/</link>
       <pubDate>Tue, 13 Sep 2016 00:00:00 +0100</pubDate>
       
-      <guid>/tags/verification/</guid>
+      <guid>https://ralucalefticaru.github.io/tags/verification/</guid>
       <description></description>
     </item>
     

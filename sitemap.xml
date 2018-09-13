@@ -2,23 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
     <url>
     
-      <loc>/project/robotest/</loc>
+      <loc>https://ralucalefticaru.github.io/project/robotest/</loc>
       <lastmod>2018-09-13T00:00:00+01:00</lastmod>
     </url>
     
@@ -26,7 +12,15 @@
     
     <url>
     
-      <loc>/publication/2018_cmc/</loc>
+      <loc>https://ralucalefticaru.github.io/post/ssbse2019/</loc>
+      <lastmod>2018-09-13T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://ralucalefticaru.github.io/publication/2018_cmc/</loc>
       <lastmod>2018-09-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -34,7 +28,7 @@
     
     <url>
     
-      <loc>/publication/2018_qrs/</loc>
+      <loc>https://ralucalefticaru.github.io/publication/2018_qrs/</loc>
       <lastmod>2018-07-16T00:00:00+01:00</lastmod>
     </url>
     
@@ -42,7 +36,7 @@
     
     <url>
     
-      <loc>/publication/2018_p_colonies/</loc>
+      <loc>https://ralucalefticaru.github.io/publication/2018_p_colonies/</loc>
       <lastmod>2018-07-08T00:00:00+01:00</lastmod>
     </url>
     
@@ -50,7 +44,15 @@
     
     <url>
     
-      <loc>/publication/2018_tcs/</loc>
+      <loc>https://ralucalefticaru.github.io/privacy/</loc>
+      <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://ralucalefticaru.github.io/publication/2018_tcs/</loc>
       <lastmod>2018-05-09T00:00:00+01:00</lastmod>
     </url>
     
@@ -58,7 +60,7 @@
     
     <url>
     
-      <loc>/project/macps/</loc>
+      <loc>https://ralucalefticaru.github.io/project/macps/</loc>
       <lastmod>2017-09-13T00:00:00+01:00</lastmod>
     </url>
     
@@ -66,7 +68,7 @@
     
     <url>
     
-      <loc>/publication/2017_cmc/</loc>
+      <loc>https://ralucalefticaru.github.io/publication/2017_cmc/</loc>
       <lastmod>2017-07-26T00:00:00+01:00</lastmod>
     </url>
     
@@ -74,7 +76,7 @@
     
     <url>
     
-      <loc>/publication/2017_exter/</loc>
+      <loc>https://ralucalefticaru.github.io/publication/2017_exter/</loc>
       <lastmod>2017-06-21T00:00:00+01:00</lastmod>
     </url>
     
@@ -82,7 +84,7 @@
     
     <url>
     
-      <loc>/post/</loc>
+      <loc>https://ralucalefticaru.github.io/post/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -90,7 +92,7 @@
     
     <url>
     
-      <loc>/publication/</loc>
+      <loc>https://ralucalefticaru.github.io/publication/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -98,7 +100,7 @@
     
     <url>
     
-      <loc>/talk/</loc>
+      <loc>https://ralucalefticaru.github.io/talk/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -106,7 +108,7 @@
     
     <url>
     
-      <loc>/project/muvet/</loc>
+      <loc>https://ralucalefticaru.github.io/project/muvet/</loc>
       <lastmod>2016-09-13T00:00:00+01:00</lastmod>
     </url>
     
@@ -114,7 +116,7 @@
     
     <url>
     
-      <loc>/project/athena/</loc>
+      <loc>https://ralucalefticaru.github.io/project/athena/</loc>
       <lastmod>2016-06-13T00:00:00+01:00</lastmod>
     </url>
     
@@ -122,7 +124,7 @@
     
     <url>
     
-      <loc>/project/cosmos/</loc>
+      <loc>https://ralucalefticaru.github.io/project/cosmos/</loc>
       <lastmod>2015-12-13T00:00:00+00:00</lastmod>
     </url>
     
@@ -130,7 +132,7 @@
     
     <url>
     
-      <loc>/project/broker/</loc>
+      <loc>https://ralucalefticaru.github.io/project/broker/</loc>
       <lastmod>2015-09-13T00:00:00+01:00</lastmod>
     </url>
     
@@ -138,7 +140,7 @@
     
     <url>
     
-      <loc>/project/deploy/</loc>
+      <loc>https://ralucalefticaru.github.io/project/deploy/</loc>
       <lastmod>2012-09-13T00:00:00+01:00</lastmod>
     </url>
     
@@ -146,7 +148,7 @@
     
     <url>
     
-      <loc>/project/evomt/</loc>
+      <loc>https://ralucalefticaru.github.io/project/evomt/</loc>
       <lastmod>2011-09-13T00:00:00+01:00</lastmod>
     </url>
     
@@ -154,7 +156,7 @@
     
     <url>
     
-      <loc>/publication_types/1/</loc>
+      <loc>https://ralucalefticaru.github.io/publication_types/1/</loc>
       <lastmod>2018-09-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -163,7 +165,7 @@
     
     <url>
     
-      <loc>/publication_types/2/</loc>
+      <loc>https://ralucalefticaru.github.io/publication_types/2/</loc>
       <lastmod>2018-07-08T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -172,7 +174,7 @@
     
     <url>
     
-      <loc>/tags/cps/</loc>
+      <loc>https://ralucalefticaru.github.io/tags/cps/</loc>
       <lastmod>2017-09-13T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -181,7 +183,7 @@
     
     <url>
     
-      <loc>/categories/</loc>
+      <loc>https://ralucalefticaru.github.io/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -189,7 +191,7 @@
     
     <url>
     
-      <loc>/tags/cloud-services/</loc>
+      <loc>https://ralucalefticaru.github.io/tags/cloud-services/</loc>
       <lastmod>2015-09-13T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -198,7 +200,7 @@
     
     <url>
     
-      <loc>/tags/crisis-management/</loc>
+      <loc>https://ralucalefticaru.github.io/tags/crisis-management/</loc>
       <lastmod>2016-06-13T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -207,7 +209,7 @@
     
     <url>
     
-      <loc>/tags/data-science/</loc>
+      <loc>https://ralucalefticaru.github.io/tags/data-science/</loc>
       <lastmod>2015-12-13T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -216,7 +218,7 @@
     
     <url>
     
-      <loc>/tags/epsrc/</loc>
+      <loc>https://ralucalefticaru.github.io/tags/epsrc/</loc>
       <lastmod>2018-09-13T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -225,7 +227,7 @@
     
     <url>
     
-      <loc>/tags/event-b/</loc>
+      <loc>https://ralucalefticaru.github.io/tags/event-b/</loc>
       <lastmod>2012-09-13T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -234,7 +236,7 @@
     
     <url>
     
-      <loc>/tags/fp7/</loc>
+      <loc>https://ralucalefticaru.github.io/tags/fp7/</loc>
       <lastmod>2016-06-13T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -243,7 +245,7 @@
     
     <url>
     
-      <loc>/tags/machine-learning/</loc>
+      <loc>https://ralucalefticaru.github.io/tags/machine-learning/</loc>
       <lastmod>2016-06-13T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -252,7 +254,7 @@
     
     <url>
     
-      <loc>/tags/modelling/</loc>
+      <loc>https://ralucalefticaru.github.io/tags/modelling/</loc>
       <lastmod>2011-09-13T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -261,7 +263,7 @@
     
     <url>
     
-      <loc>/project/</loc>
+      <loc>https://ralucalefticaru.github.io/project/</loc>
       <lastmod>2018-09-13T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -270,7 +272,7 @@
     
     <url>
     
-      <loc>/publication_types/</loc>
+      <loc>https://ralucalefticaru.github.io/publication_types/</loc>
       <lastmod>2018-09-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -279,8 +281,8 @@
     
     <url>
     
-      <loc>/</loc>
-      <lastmod>2017-10-15T00:00:00+01:00</lastmod>
+      <loc>https://ralucalefticaru.github.io/</loc>
+      <lastmod>2016-04-20T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -288,7 +290,7 @@
     
     <url>
     
-      <loc>/tags/robotics/</loc>
+      <loc>https://ralucalefticaru.github.io/tags/robotics/</loc>
       <lastmod>2018-09-13T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -297,7 +299,7 @@
     
     <url>
     
-      <loc>/tags/rodin/</loc>
+      <loc>https://ralucalefticaru.github.io/tags/rodin/</loc>
       <lastmod>2012-09-13T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -306,7 +308,7 @@
     
     <url>
     
-      <loc>/tags/sbst/</loc>
+      <loc>https://ralucalefticaru.github.io/tags/sbst/</loc>
       <lastmod>2011-09-13T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -315,25 +317,7 @@
     
     <url>
     
-      <loc>/tags/social-media/</loc>
-      <lastmod>2016-06-13T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/</loc>
-      <lastmod>2017-09-13T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/testing/</loc>
+      <loc>https://ralucalefticaru.github.io/tags/ssbse/</loc>
       <lastmod>2018-09-13T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -342,8 +326,8 @@
     
     <url>
     
-      <loc>/to_do/</loc>
-      <lastmod>2017-10-15T00:00:00+01:00</lastmod>
+      <loc>https://ralucalefticaru.github.io/tags/social-media/</loc>
+      <lastmod>2016-06-13T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -351,7 +335,25 @@
     
     <url>
     
-      <loc>/tags/verification/</loc>
+      <loc>https://ralucalefticaru.github.io/tags/</loc>
+      <lastmod>2017-09-13T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://ralucalefticaru.github.io/tags/testing/</loc>
+      <lastmod>2018-09-13T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://ralucalefticaru.github.io/tags/verification/</loc>
       <lastmod>2016-09-13T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>

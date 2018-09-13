@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cloud services on Raluca Lefticaru</title>
-    <link>/tags/cloud-services/</link>
+    <link>https://ralucalefticaru.github.io/tags/cloud-services/</link>
     <description>Recent content in Cloud services on Raluca Lefticaru</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 13 Sep 2015 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="/tags/cloud-services/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ralucalefticaru.github.io/tags/cloud-services/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Broker@Cloud</title>
-      <link>/project/broker/</link>
+      <link>https://ralucalefticaru.github.io/project/broker/</link>
       <pubDate>Sun, 13 Sep 2015 00:00:00 +0100</pubDate>
       
-      <guid>/project/broker/</guid>
+      <guid>https://ralucalefticaru.github.io/project/broker/</guid>
       <description></description>
     </item>
     

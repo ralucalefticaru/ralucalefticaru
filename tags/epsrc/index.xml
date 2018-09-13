@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>EPSRC on Raluca Lefticaru</title>
-    <link>/tags/epsrc/</link>
+    <link>https://ralucalefticaru.github.io/tags/epsrc/</link>
     <description>Recent content in EPSRC on Raluca Lefticaru</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Thu, 13 Sep 2018 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="/tags/epsrc/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ralucalefticaru.github.io/tags/epsrc/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>RoboTest</title>
-      <link>/project/robotest/</link>
+      <link>https://ralucalefticaru.github.io/project/robotest/</link>
       <pubDate>Thu, 13 Sep 2018 00:00:00 +0100</pubDate>
       
-      <guid>/project/robotest/</guid>
+      <guid>https://ralucalefticaru.github.io/project/robotest/</guid>
       <description></description>
     </item>
     

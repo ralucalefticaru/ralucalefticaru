@@ -2,85 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Raluca Lefticaru</title>
-    <link>/project/</link>
+    <link>https://ralucalefticaru.github.io/project/</link>
     <description>Recent content in Projects on Raluca Lefticaru</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Thu, 13 Sep 2018 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ralucalefticaru.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>RoboTest</title>
-      <link>/project/robotest/</link>
+      <link>https://ralucalefticaru.github.io/project/robotest/</link>
       <pubDate>Thu, 13 Sep 2018 00:00:00 +0100</pubDate>
       
-      <guid>/project/robotest/</guid>
+      <guid>https://ralucalefticaru.github.io/project/robotest/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MACPS</title>
-      <link>/project/macps/</link>
+      <link>https://ralucalefticaru.github.io/project/macps/</link>
       <pubDate>Wed, 13 Sep 2017 00:00:00 +0100</pubDate>
       
-      <guid>/project/macps/</guid>
+      <guid>https://ralucalefticaru.github.io/project/macps/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MuVeT</title>
-      <link>/project/muvet/</link>
+      <link>https://ralucalefticaru.github.io/project/muvet/</link>
       <pubDate>Tue, 13 Sep 2016 00:00:00 +0100</pubDate>
       
-      <guid>/project/muvet/</guid>
+      <guid>https://ralucalefticaru.github.io/project/muvet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Athena</title>
-      <link>/project/athena/</link>
+      <link>https://ralucalefticaru.github.io/project/athena/</link>
       <pubDate>Mon, 13 Jun 2016 00:00:00 +0100</pubDate>
       
-      <guid>/project/athena/</guid>
+      <guid>https://ralucalefticaru.github.io/project/athena/</guid>
       <description></description>
     </item>
     
     <item>
       <title>COSMOS</title>
-      <link>/project/cosmos/</link>
+      <link>https://ralucalefticaru.github.io/project/cosmos/</link>
       <pubDate>Sun, 13 Dec 2015 00:00:00 +0000</pubDate>
       
-      <guid>/project/cosmos/</guid>
+      <guid>https://ralucalefticaru.github.io/project/cosmos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Broker@Cloud</title>
-      <link>/project/broker/</link>
+      <link>https://ralucalefticaru.github.io/project/broker/</link>
       <pubDate>Sun, 13 Sep 2015 00:00:00 +0100</pubDate>
       
-      <guid>/project/broker/</guid>
+      <guid>https://ralucalefticaru.github.io/project/broker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DEPLOY</title>
-      <link>/project/deploy/</link>
+      <link>https://ralucalefticaru.github.io/project/deploy/</link>
       <pubDate>Thu, 13 Sep 2012 00:00:00 +0100</pubDate>
       
-      <guid>/project/deploy/</guid>
+      <guid>https://ralucalefticaru.github.io/project/deploy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>EvoMT</title>
-      <link>/project/evomt/</link>
+      <link>https://ralucalefticaru.github.io/project/evomt/</link>
       <pubDate>Tue, 13 Sep 2011 00:00:00 +0100</pubDate>
       
-      <guid>/project/evomt/</guid>
+      <guid>https://ralucalefticaru.github.io/project/evomt/</guid>
       <description></description>
     </item>
     
