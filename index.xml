@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raluca Lefticaru on Raluca Lefticaru</title>
+    <link>/</link>
+    <description>Recent content in Raluca Lefticaru on Raluca Lefticaru</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0100</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>/to_do/hero_carousel/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/to_do/hero_carousel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/to_do/skills/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/to_do/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected Talks</title>
+      <link>/to_do/talks_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/to_do/talks_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/to_do/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/to_do/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>/to_do/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/to_do/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Custom Section</title>
+      <link>/to_do/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/to_do/teaching/</guid>
+      <description>&lt;p&gt;This is an example of using the &lt;em&gt;custom&lt;/em&gt; widget to create your own homepage section.&lt;/p&gt;
+
+&lt;p&gt;To remove this section, either delete &lt;code&gt;content/home/teaching.md&lt;/code&gt; or edit the frontmatter of the file to deactivate the widget by setting &lt;code&gt;active = false&lt;/code&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>/to_do/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/to_do/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RoboTest</title>
+      <link>/project/robotest/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/project/robotest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing Identifiable Kernel P Systems using an X-machine Approach</title>
+      <link>/publication/2018_cmc/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2018_cmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generating Complex Paths for Testing from an EFSM</title>
+      <link>/publication/2018_qrs/</link>
+      <pubDate>Mon, 16 Jul 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2018_qrs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P colonies and kernel P systems</title>
+      <link>/publication/2018_p_colonies/</link>
+      <pubDate>Sun, 08 Jul 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2018_p_colonies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kernel P systems: From modelling to verification and testing</title>
+      <link>/publication/2018_tcs/</link>
+      <pubDate>Wed, 09 May 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2018_tcs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MACPS</title>
+      <link>/project/macps/</link>
+      <pubDate>Wed, 13 Sep 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/project/macps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling and Validating an Engineering Application in Kernel P Systems</title>
+      <link>/publication/2017_cmc/</link>
+      <pubDate>Wed, 26 Jul 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2017_cmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards an Integrated Approach to Verification and Model-Based Testing in System Engineering</title>
+      <link>/publication/2017_exter/</link>
+      <pubDate>Wed, 21 Jun 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2017_exter/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

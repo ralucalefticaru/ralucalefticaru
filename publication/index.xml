@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Raluca Lefticaru</title>
+    <link>/publication/</link>
+    <description>Recent content in Publications on Raluca Lefticaru</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Testing Identifiable Kernel P Systems using an X-machine Approach</title>
+      <link>/publication/2018_cmc/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2018_cmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generating Complex Paths for Testing from an EFSM</title>
+      <link>/publication/2018_qrs/</link>
+      <pubDate>Mon, 16 Jul 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2018_qrs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P colonies and kernel P systems</title>
+      <link>/publication/2018_p_colonies/</link>
+      <pubDate>Sun, 08 Jul 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2018_p_colonies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kernel P systems: From modelling to verification and testing</title>
+      <link>/publication/2018_tcs/</link>
+      <pubDate>Wed, 09 May 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2018_tcs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling and Validating an Engineering Application in Kernel P Systems</title>
+      <link>/publication/2017_cmc/</link>
+      <pubDate>Wed, 26 Jul 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2017_cmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards an Integrated Approach to Verification and Model-Based Testing in System Engineering</title>
+      <link>/publication/2017_exter/</link>
+      <pubDate>Wed, 21 Jun 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2017_exter/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
