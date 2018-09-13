@@ -44,8 +44,8 @@
     
     <url>
     
-      <loc>https://ralucalefticaru.github.io/privacy/</loc>
-      <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+      <loc>https://ralucalefticaru.github.io/publication/2018_from/</loc>
+      <lastmod>2018-06-18T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -54,6 +54,14 @@
     
       <loc>https://ralucalefticaru.github.io/publication/2018_tcs/</loc>
       <lastmod>2018-05-09T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://ralucalefticaru.github.io/publication/2017_synasc/</loc>
+      <lastmod>2017-09-21T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -84,6 +92,14 @@
     
     <url>
     
+      <loc>https://ralucalefticaru.github.io/publication/2017_book_chapter/</loc>
+      <lastmod>2017-03-28T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://ralucalefticaru.github.io/post/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -100,8 +116,8 @@
     
     <url>
     
-      <loc>https://ralucalefticaru.github.io/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <loc>https://ralucalefticaru.github.io/publication/2016_synasc/</loc>
+      <lastmod>2016-09-24T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -116,6 +132,22 @@
     
     <url>
     
+      <loc>https://ralucalefticaru.github.io/publication/2016_cmc/</loc>
+      <lastmod>2016-07-25T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://ralucalefticaru.github.io/publication/2016_wmc/</loc>
+      <lastmod>2016-07-11T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://ralucalefticaru.github.io/project/athena/</loc>
       <lastmod>2016-06-13T00:00:00+01:00</lastmod>
     </url>
@@ -124,8 +156,16 @@
     
     <url>
     
+      <loc>https://ralucalefticaru.github.io/publication/2016_icae/</loc>
+      <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://ralucalefticaru.github.io/project/cosmos/</loc>
-      <lastmod>2015-12-13T00:00:00+00:00</lastmod>
+      <lastmod>2015-12-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -133,7 +173,23 @@
     <url>
     
       <loc>https://ralucalefticaru.github.io/project/broker/</loc>
-      <lastmod>2015-09-13T00:00:00+01:00</lastmod>
+      <lastmod>2015-11-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://ralucalefticaru.github.io/publication/2015_ijccc/</loc>
+      <lastmod>2015-10-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://ralucalefticaru.github.io/publication/2014_esocc/</loc>
+      <lastmod>2014-07-11T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -141,7 +197,7 @@
     <url>
     
       <loc>https://ralucalefticaru.github.io/project/deploy/</loc>
-      <lastmod>2012-09-13T00:00:00+01:00</lastmod>
+      <lastmod>2012-12-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -149,7 +205,7 @@
     <url>
     
       <loc>https://ralucalefticaru.github.io/project/evomt/</loc>
-      <lastmod>2011-09-13T00:00:00+01:00</lastmod>
+      <lastmod>2011-12-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -174,8 +230,8 @@
     
     <url>
     
-      <loc>https://ralucalefticaru.github.io/tags/cps/</loc>
-      <lastmod>2017-09-13T00:00:00+01:00</lastmod>
+      <loc>https://ralucalefticaru.github.io/publication_types/6/</loc>
+      <lastmod>2017-03-28T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -184,78 +240,6 @@
     <url>
     
       <loc>https://ralucalefticaru.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://ralucalefticaru.github.io/tags/cloud-services/</loc>
-      <lastmod>2015-09-13T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://ralucalefticaru.github.io/tags/crisis-management/</loc>
-      <lastmod>2016-06-13T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://ralucalefticaru.github.io/tags/data-science/</loc>
-      <lastmod>2015-12-13T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://ralucalefticaru.github.io/tags/epsrc/</loc>
-      <lastmod>2018-09-13T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://ralucalefticaru.github.io/tags/event-b/</loc>
-      <lastmod>2012-09-13T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://ralucalefticaru.github.io/tags/fp7/</loc>
-      <lastmod>2016-06-13T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://ralucalefticaru.github.io/tags/machine-learning/</loc>
-      <lastmod>2016-06-13T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://ralucalefticaru.github.io/tags/modelling/</loc>
-      <lastmod>2011-09-13T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -290,71 +274,7 @@
     
     <url>
     
-      <loc>https://ralucalefticaru.github.io/tags/robotics/</loc>
-      <lastmod>2018-09-13T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://ralucalefticaru.github.io/tags/rodin/</loc>
-      <lastmod>2012-09-13T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://ralucalefticaru.github.io/tags/sbst/</loc>
-      <lastmod>2011-09-13T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://ralucalefticaru.github.io/tags/ssbse/</loc>
-      <lastmod>2018-09-13T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://ralucalefticaru.github.io/tags/social-media/</loc>
-      <lastmod>2016-06-13T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://ralucalefticaru.github.io/tags/</loc>
-      <lastmod>2017-09-13T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://ralucalefticaru.github.io/tags/testing/</loc>
-      <lastmod>2018-09-13T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://ralucalefticaru.github.io/tags/verification/</loc>
-      <lastmod>2016-09-13T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     

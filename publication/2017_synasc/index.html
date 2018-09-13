@@ -15,10 +15,10 @@
   
     
   
-  <meta name="description" content="This paper presents a testing approach for kernel P systems (kP systems), based on the X-machine testing approach and the concept of cover automaton. The testing methodology ensures that the implementation conforms the specifications, under certain conditions, such as the identifiability concept in the context of kernel P systems.">
+  <meta name="description" content="Using extended finite state machines for test data generation can be a difficult process because we need to generate paths that are feasible and we also need to find input data that traverse a given path. This paper presents a test suite generation algorithm for extended finite state machines. The algorithm produces a set of feasible transition paths that cover all transitions using a modified multi-objective genetic algorithm (deleting redundant paths and shortening the solutions). The multi-objective problem aims to optimize the transitions coverage and the path feasibility, based on dataflow dependencies. Having a set of paths resulted from this algorithm, we can easily find input parameters for each path.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://ralucalefticaru.github.io/publication/2017_cmc/">
+  <link rel="alternate" hreflang="en-us" href="https://ralucalefticaru.github.io/publication/2017_synasc/">
 
   
 
@@ -96,26 +96,26 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://ralucalefticaru.github.io/publication/2017_cmc/">
+  <link rel="canonical" href="https://ralucalefticaru.github.io/publication/2017_synasc/">
 
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Raluca Lefticaru">
-  <meta property="og:url" content="https://ralucalefticaru.github.io/publication/2017_cmc/">
-  <meta property="og:title" content="Modelling and Validating an Engineering Application in Kernel P Systems | Raluca Lefticaru">
-  <meta property="og:description" content="This paper presents a testing approach for kernel P systems (kP systems), based on the X-machine testing approach and the concept of cover automaton. The testing methodology ensures that the implementation conforms the specifications, under certain conditions, such as the identifiability concept in the context of kernel P systems.">
+  <meta property="og:url" content="https://ralucalefticaru.github.io/publication/2017_synasc/">
+  <meta property="og:title" content="A Test Suite Generation Approach based on EFSMs using a multi-objective algorithm | Raluca Lefticaru">
+  <meta property="og:description" content="Using extended finite state machines for test data generation can be a difficult process because we need to generate paths that are feasible and we also need to find input data that traverse a given path. This paper presents a test suite generation algorithm for extended finite state machines. The algorithm produces a set of feasible transition paths that cover all transitions using a modified multi-objective genetic algorithm (deleting redundant paths and shortening the solutions). The multi-objective problem aims to optimize the transitions coverage and the path feasibility, based on dataflow dependencies. Having a set of paths resulted from this algorithm, we can easily find input parameters for each path.">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2017-07-26T00:00:00&#43;01:00">
+  <meta property="article:published_time" content="2017-09-21T00:00:00&#43;01:00">
   
-  <meta property="article:modified_time" content="2017-07-26T00:00:00&#43;01:00">
-  
-
+  <meta property="article:modified_time" content="2017-09-21T00:00:00&#43;01:00">
   
 
   
 
-  <title>Modelling and Validating an Engineering Application in Kernel P Systems | Raluca Lefticaru</title>
+  
+
+  <title>A Test Suite Generation Approach based on EFSMs using a multi-objective algorithm | Raluca Lefticaru</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#toc" data-offset="71" >
@@ -249,10 +249,10 @@
 
 
   <div class="article-container">
-    <h1 itemprop="name">Modelling and Validating an Engineering Application in Kernel P Systems</h1>
+    <h1 itemprop="name">A Test Suite Generation Approach based on EFSMs using a multi-objective algorithm</h1>
     <span class="pub-authors" itemprop="author">
       
-      Raluca Lefticaru, Mehmet Emin Bakir, Savas Konur, Mike Stannett, Florentin Ipate
+      Ana Turlea, Florentin Ipate, Raluca Lefticaru
       
     </span>
     <span class="float-right">
@@ -261,35 +261,35 @@
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Modelling%20and%20Validating%20an%20Engineering%20Application%20in%20Kernel%20P%20Systems&amp;url=https%3a%2f%2fralucalefticaru.github.io%2fpublication%2f2017_cmc%2f"
+         href="https://twitter.com/intent/tweet?text=A%20Test%20Suite%20Generation%20Approach%20based%20on%20EFSMs%20using%20a%20multi-objective%20algorithm&amp;url=https%3a%2f%2fralucalefticaru.github.io%2fpublication%2f2017_synasc%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fralucalefticaru.github.io%2fpublication%2f2017_cmc%2f"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fralucalefticaru.github.io%2fpublication%2f2017_synasc%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-facebook-f"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fralucalefticaru.github.io%2fpublication%2f2017_cmc%2f&amp;title=Modelling%20and%20Validating%20an%20Engineering%20Application%20in%20Kernel%20P%20Systems"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fralucalefticaru.github.io%2fpublication%2f2017_synasc%2f&amp;title=A%20Test%20Suite%20Generation%20Approach%20based%20on%20EFSMs%20using%20a%20multi-objective%20algorithm"
          target="_blank" rel="noopener">
         <i class="fab fa-linkedin-in"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fralucalefticaru.github.io%2fpublication%2f2017_cmc%2f&amp;title=Modelling%20and%20Validating%20an%20Engineering%20Application%20in%20Kernel%20P%20Systems"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fralucalefticaru.github.io%2fpublication%2f2017_synasc%2f&amp;title=A%20Test%20Suite%20Generation%20Approach%20based%20on%20EFSMs%20using%20a%20multi-objective%20algorithm"
          target="_blank" rel="noopener">
         <i class="fab fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Modelling%20and%20Validating%20an%20Engineering%20Application%20in%20Kernel%20P%20Systems&amp;body=https%3a%2f%2fralucalefticaru.github.io%2fpublication%2f2017_cmc%2f">
+         href="mailto:?subject=A%20Test%20Suite%20Generation%20Approach%20based%20on%20EFSMs%20using%20a%20multi-objective%20algorithm&amp;body=https%3a%2f%2fralucalefticaru.github.io%2fpublication%2f2017_synasc%2f">
         <i class="fas fa-envelope"></i>
       </a>
     </li>
@@ -303,7 +303,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">This paper presents a testing approach for kernel P systems (kP systems), based on the X-machine testing approach and the concept of cover automaton. The testing methodology ensures that the implementation conforms the specifications, under certain conditions, such as the identifiability concept in the context of kernel P systems.</p>
+    <p class="pub-abstract" itemprop="text">Using extended finite state machines for test data generation can be a difficult process because we need to generate paths that are feasible and we also need to find input data that traverse a given path. This paper presents a test suite generation algorithm for extended finite state machines. The algorithm produces a set of feasible transition paths that cover all transitions using a modified multi-objective genetic algorithm (deleting redundant paths and shortening the solutions). The multi-objective problem aims to optimize the transitions coverage and the path feasibility, based on dataflow dependencies. Having a set of paths resulted from this algorithm, we can easily find input parameters for each path.</p>
     
 
     
@@ -332,7 +332,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">Proceedings of the <em>18th International Conference on Membrane Computing</em> (CMC18)</div>
+          <div class="col-12 col-md-9">19th International Symposium on Symbolic and Numeric Algorithms for Scientific Computing (SYNASC 2017)</div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -346,7 +346,7 @@
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Date</div>
           <div class="col-12 col-md-9" itemprop="datePublished">
-            July, 2017
+            September, 2017
           </div>
         </div>
       </div>
@@ -366,22 +366,22 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="https://doi.org/10.1007/978-3-319-73359-3_12" target="_blank" rel="noopener">
-  PDF
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://synasc.ro/2017/" target="_blank" rel="noopener">
+  Conference
 </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

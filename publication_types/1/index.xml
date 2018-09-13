@@ -31,6 +31,24 @@
     </item>
     
     <item>
+      <title>Search based Model in the Loop Testing for Cyber Physical Systems</title>
+      <link>https://ralucalefticaru.github.io/publication/2018_from/</link>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://ralucalefticaru.github.io/publication/2018_from/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Test Suite Generation Approach based on EFSMs using a multi-objective algorithm</title>
+      <link>https://ralucalefticaru.github.io/publication/2017_synasc/</link>
+      <pubDate>Thu, 21 Sep 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://ralucalefticaru.github.io/publication/2017_synasc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Modelling and Validating an Engineering Application in Kernel P Systems</title>
       <link>https://ralucalefticaru.github.io/publication/2017_cmc/</link>
       <pubDate>Wed, 26 Jul 2017 00:00:00 +0100</pubDate>
@@ -45,6 +63,42 @@
       <pubDate>Wed, 21 Jun 2017 00:00:00 +0100</pubDate>
       
       <guid>https://ralucalefticaru.github.io/publication/2017_exter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Hybrid Test Generation Approach Based on Extended Finite State Machines</title>
+      <link>https://ralucalefticaru.github.io/publication/2016_synasc/</link>
+      <pubDate>Sat, 24 Sep 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://ralucalefticaru.github.io/publication/2016_synasc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agent-Based Simulation of Kernel P Systems with Division Rules Using FLAME</title>
+      <link>https://ralucalefticaru.github.io/publication/2016_cmc/</link>
+      <pubDate>Mon, 25 Jul 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://ralucalefticaru.github.io/publication/2016_cmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards agent-based simulation of kernel P systems using FLAME and FLAME GPU</title>
+      <link>https://ralucalefticaru.github.io/publication/2016_wmc/</link>
+      <pubDate>Mon, 11 Jul 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://ralucalefticaru.github.io/publication/2016_wmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>X-Machine Based Testing for Cloud Services</title>
+      <link>https://ralucalefticaru.github.io/publication/2014_esocc/</link>
+      <pubDate>Fri, 11 Jul 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://ralucalefticaru.github.io/publication/2014_esocc/</guid>
       <description></description>
     </item>
     
