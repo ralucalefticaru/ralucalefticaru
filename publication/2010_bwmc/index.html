@@ -15,10 +15,10 @@
   
     
   
-  <meta name="description" content="This paper presents an approach to P systems verification using the Spin model checker. A tool which implements the proposed approach has been developed and can automatically transform P system specifications from P-Lingua into Promela, the language accepted by the well known model checker Spin. The properties expected for the P system are specified using some patterns, representing high level descriptions of frequently asked questions, formulated in natural language. These properties are automatically translated into LTL specifications for the Promela model and the Spin model checker is run against them. In case a counterexample is received, the Spin trace is decoded and expressed as a P system computation. The tool has been tested on a number of examples and the results obtained are presented in the paper.">
+  <meta name="description" content="This paper presents an approach for P system testing, that uses model-checking for automatic test generation and P-Lingua as specification language. This approach is based on a transformation of the transitional, non-deterministic, cell-like P system into a Kripke structure, which is further used for test generation, by adding convenient temporal logic specifications. This paper extends our previous work in this field to multi-membrane, transitional P system, having cooperative rules, communication between membranes and membrane dissolution. A tool, which takes as input a P system specified in P-Lingua and translates it into the language accepted by the model checker NuSMV was developed and used for test case generation. Some hints regarding the automatic test generation using NuSMV and P-Lingua are also given.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://ralucalefticaru.github.io/publication/2011_bwmc/">
+  <link rel="alternate" hreflang="en-us" href="https://ralucalefticaru.github.io/publication/2010_bwmc/">
 
   
 
@@ -96,26 +96,26 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://ralucalefticaru.github.io/publication/2011_bwmc/">
+  <link rel="canonical" href="https://ralucalefticaru.github.io/publication/2010_bwmc/">
 
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Raluca Lefticaru">
-  <meta property="og:url" content="https://ralucalefticaru.github.io/publication/2011_bwmc/">
-  <meta property="og:title" content="Towards automated verification of P systems using Spin | Raluca Lefticaru">
-  <meta property="og:description" content="This paper presents an approach to P systems verification using the Spin model checker. A tool which implements the proposed approach has been developed and can automatically transform P system specifications from P-Lingua into Promela, the language accepted by the well known model checker Spin. The properties expected for the P system are specified using some patterns, representing high level descriptions of frequently asked questions, formulated in natural language. These properties are automatically translated into LTL specifications for the Promela model and the Spin model checker is run against them. In case a counterexample is received, the Spin trace is decoded and expressed as a P system computation. The tool has been tested on a number of examples and the results obtained are presented in the paper.">
+  <meta property="og:url" content="https://ralucalefticaru.github.io/publication/2010_bwmc/">
+  <meta property="og:title" content="Model checking based test generation from P systems using P-Lingua | Raluca Lefticaru">
+  <meta property="og:description" content="This paper presents an approach for P system testing, that uses model-checking for automatic test generation and P-Lingua as specification language. This approach is based on a transformation of the transitional, non-deterministic, cell-like P system into a Kripke structure, which is further used for test generation, by adding convenient temporal logic specifications. This paper extends our previous work in this field to multi-membrane, transitional P system, having cooperative rules, communication between membranes and membrane dissolution. A tool, which takes as input a P system specified in P-Lingua and translates it into the language accepted by the model checker NuSMV was developed and used for test case generation. Some hints regarding the automatic test generation using NuSMV and P-Lingua are also given.">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2011-02-02T00:00:00&#43;00:00">
+  <meta property="article:published_time" content="2010-02-02T00:00:00&#43;00:00">
   
-  <meta property="article:modified_time" content="2011-02-02T00:00:00&#43;00:00">
-  
-
+  <meta property="article:modified_time" content="2010-02-02T00:00:00&#43;00:00">
   
 
   
 
-  <title>Towards automated verification of P systems using Spin | Raluca Lefticaru</title>
+  
+
+  <title>Model checking based test generation from P systems using P-Lingua | Raluca Lefticaru</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#toc" data-offset="71" >
@@ -249,10 +249,10 @@
 
 
   <div class="article-container">
-    <h1 itemprop="name">Towards automated verification of P systems using Spin</h1>
+    <h1 itemprop="name">Model checking based test generation from P systems using P-Lingua</h1>
     <span class="pub-authors" itemprop="author">
       
-      Raluca Lefticaru, Cristina Tudose, Florentin Ipate
+      Raluca Lefticaru, Florentin Ipate, Marian Gheorghe
       
     </span>
     <span class="float-right">
@@ -261,35 +261,35 @@
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Towards%20automated%20verification%20of%20P%20systems%20using%20Spin&amp;url=https%3a%2f%2fralucalefticaru.github.io%2fpublication%2f2011_bwmc%2f"
+         href="https://twitter.com/intent/tweet?text=Model%20checking%20based%20test%20generation%20from%20P%20systems%20using%20P-Lingua&amp;url=https%3a%2f%2fralucalefticaru.github.io%2fpublication%2f2010_bwmc%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fralucalefticaru.github.io%2fpublication%2f2011_bwmc%2f"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fralucalefticaru.github.io%2fpublication%2f2010_bwmc%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-facebook-f"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fralucalefticaru.github.io%2fpublication%2f2011_bwmc%2f&amp;title=Towards%20automated%20verification%20of%20P%20systems%20using%20Spin"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fralucalefticaru.github.io%2fpublication%2f2010_bwmc%2f&amp;title=Model%20checking%20based%20test%20generation%20from%20P%20systems%20using%20P-Lingua"
          target="_blank" rel="noopener">
         <i class="fab fa-linkedin-in"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fralucalefticaru.github.io%2fpublication%2f2011_bwmc%2f&amp;title=Towards%20automated%20verification%20of%20P%20systems%20using%20Spin"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fralucalefticaru.github.io%2fpublication%2f2010_bwmc%2f&amp;title=Model%20checking%20based%20test%20generation%20from%20P%20systems%20using%20P-Lingua"
          target="_blank" rel="noopener">
         <i class="fab fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Towards%20automated%20verification%20of%20P%20systems%20using%20Spin&amp;body=https%3a%2f%2fralucalefticaru.github.io%2fpublication%2f2011_bwmc%2f">
+         href="mailto:?subject=Model%20checking%20based%20test%20generation%20from%20P%20systems%20using%20P-Lingua&amp;body=https%3a%2f%2fralucalefticaru.github.io%2fpublication%2f2010_bwmc%2f">
         <i class="fas fa-envelope"></i>
       </a>
     </li>
@@ -303,7 +303,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">This paper presents an approach to P systems verification using the Spin model checker. A tool which implements the proposed approach has been developed and can automatically transform P system specifications from P-Lingua into Promela, the language accepted by the well known model checker Spin. The properties expected for the P system are specified using some patterns, representing high level descriptions of frequently asked questions, formulated in natural language. These properties are automatically translated into LTL specifications for the Promela model and the Spin model checker is run against them. In case a counterexample is received, the Spin trace is decoded and expressed as a P system computation. The tool has been tested on a number of examples and the results obtained are presented in the paper.</p>
+    <p class="pub-abstract" itemprop="text">This paper presents an approach for P system testing, that uses model-checking for automatic test generation and P-Lingua as specification language. This approach is based on a transformation of the transitional, non-deterministic, cell-like P system into a Kripke structure, which is further used for test generation, by adding convenient temporal logic specifications. This paper extends our previous work in this field to multi-membrane, transitional P system, having cooperative rules, communication between membranes and membrane dissolution. A tool, which takes as input a P system specified in P-Lingua and translates it into the language accepted by the model checker NuSMV was developed and used for test case generation. Some hints regarding the automatic test generation using NuSMV and P-Lingua are also given.</p>
     
 
     
@@ -346,7 +346,7 @@
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Date</div>
           <div class="col-12 col-md-9" itemprop="datePublished">
-            February, 2011
+            February, 2010
           </div>
         </div>
       </div>
@@ -366,7 +366,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="http://www.gcn.us.es/9BWMC/volume/16Lefticaru_psys_spin.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="http://www.gcn.us.es/8BWMC/volume/13bwmc_2010.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 

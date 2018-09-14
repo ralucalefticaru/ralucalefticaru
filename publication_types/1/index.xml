@@ -192,5 +192,104 @@
       <description></description>
     </item>
     
+    <item>
+      <title>An Integrated Approach to P Systems Formal Verification</title>
+      <link>https://ralucalefticaru.github.io/publication/2010_cmc1/</link>
+      <pubDate>Tue, 24 Aug 2010 00:00:00 +0100</pubDate>
+      
+      <guid>https://ralucalefticaru.github.io/publication/2010_cmc1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tools for P system testing</title>
+      <link>https://ralucalefticaru.github.io/publication/2010_cmc2/</link>
+      <pubDate>Tue, 24 Aug 2010 00:00:00 +0100</pubDate>
+      
+      <guid>https://ralucalefticaru.github.io/publication/2010_cmc2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A particle swarm optimization based on P systems</title>
+      <link>https://ralucalefticaru.github.io/publication/2010_icnc/</link>
+      <pubDate>Tue, 10 Aug 2010 00:00:00 +0100</pubDate>
+      
+      <guid>https://ralucalefticaru.github.io/publication/2010_icnc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model checking based test generation from P systems using P-Lingua</title>
+      <link>https://ralucalefticaru.github.io/publication/2010_bwmc/</link>
+      <pubDate>Tue, 02 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://ralucalefticaru.github.io/publication/2010_bwmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated Model Design Using Genetic Algorithms and Model Checking</title>
+      <link>https://ralucalefticaru.github.io/publication/2009_bci/</link>
+      <pubDate>Thu, 17 Sep 2009 00:00:00 +0100</pubDate>
+      
+      <guid>https://ralucalefticaru.github.io/publication/2009_bci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tuning P Systems for Solving the Broadcasting Problem</title>
+      <link>https://ralucalefticaru.github.io/publication/2009_wmc/</link>
+      <pubDate>Mon, 24 Aug 2009 00:00:00 +0100</pubDate>
+      
+      <guid>https://ralucalefticaru.github.io/publication/2009_wmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Comparative Landscape Analysis of Fitness Functions for Search-Based Testing</title>
+      <link>https://ralucalefticaru.github.io/publication/2008_synasc/</link>
+      <pubDate>Wed, 24 Sep 2008 00:00:00 +0100</pubDate>
+      
+      <guid>https://ralucalefticaru.github.io/publication/2008_synasc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Functional Search-based Testing from State Machines</title>
+      <link>https://ralucalefticaru.github.io/publication/2008_icst/</link>
+      <pubDate>Wed, 09 Apr 2008 00:00:00 +0100</pubDate>
+      
+      <guid>https://ralucalefticaru.github.io/publication/2008_icst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search-based Testing using State-based Fitness</title>
+      <link>https://ralucalefticaru.github.io/publication/2008_icstw/</link>
+      <pubDate>Wed, 09 Apr 2008 00:00:00 +0100</pubDate>
+      
+      <guid>https://ralucalefticaru.github.io/publication/2008_icstw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic State-Based Test Generation Using Genetic Algorithms</title>
+      <link>https://ralucalefticaru.github.io/publication/2007_synasc/</link>
+      <pubDate>Wed, 26 Sep 2007 00:00:00 +0100</pubDate>
+      
+      <guid>https://ralucalefticaru.github.io/publication/2007_synasc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>State-based testing is functional testing</title>
+      <link>https://ralucalefticaru.github.io/publication/2007_taicpart/</link>
+      <pubDate>Wed, 12 Sep 2007 00:00:00 +0100</pubDate>
+      
+      <guid>https://ralucalefticaru.github.io/publication/2007_taicpart/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

@@ -93,5 +93,32 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Test generation from P systems using model checking</title>
+      <link>https://ralucalefticaru.github.io/publication/2010_jlap/</link>
+      <pubDate>Sun, 01 Aug 2010 00:00:00 +0100</pubDate>
+      
+      <guid>https://ralucalefticaru.github.io/publication/2010_jlap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model checking based test generation from P systems using P-Lingua</title>
+      <link>https://ralucalefticaru.github.io/publication/2010_romjist/</link>
+      <pubDate>Tue, 01 Jun 2010 00:00:00 +0100</pubDate>
+      
+      <guid>https://ralucalefticaru.github.io/publication/2010_romjist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic model based testing: A framework and a case study</title>
+      <link>https://ralucalefticaru.github.io/publication/2008_romjist/</link>
+      <pubDate>Wed, 01 Oct 2008 00:00:00 +0100</pubDate>
+      
+      <guid>https://ralucalefticaru.github.io/publication/2008_romjist/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
