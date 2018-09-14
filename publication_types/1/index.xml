@@ -120,5 +120,77 @@
       <description></description>
     </item>
     
+    <item>
+      <title>An Improved Test Generation Approach from Extended Finite State Machines Using Genetic Algorithms</title>
+      <link>https://ralucalefticaru.github.io/publication/2012_sefm/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0100</pubDate>
+      
+      <guid>https://ralucalefticaru.github.io/publication/2012_sefm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using a kernel P system to solve the 3-Col problem</title>
+      <link>https://ralucalefticaru.github.io/publication/2012_cmc/</link>
+      <pubDate>Tue, 28 Aug 2012 00:00:00 +0100</pubDate>
+      
+      <guid>https://ralucalefticaru.github.io/publication/2012_cmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards an Integrated Approach for Model Simulation, Property Extraction and Verification of P Systems</title>
+      <link>https://ralucalefticaru.github.io/publication/2012_bwmc/</link>
+      <pubDate>Thu, 02 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://ralucalefticaru.github.io/publication/2012_bwmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Genetic Algorithms and Model Checking for P Systems Automatic Design</title>
+      <link>https://ralucalefticaru.github.io/publication/2011_nicso/</link>
+      <pubDate>Tue, 20 Sep 2011 00:00:00 +0100</pubDate>
+      
+      <guid>https://ralucalefticaru.github.io/publication/2011_nicso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal Verification of P Systems with Active Membranes through Model Checking</title>
+      <link>https://ralucalefticaru.github.io/publication/2011_cmc/</link>
+      <pubDate>Sat, 20 Aug 2011 00:00:00 +0100</pubDate>
+      
+      <guid>https://ralucalefticaru.github.io/publication/2011_cmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test Data Generation for Event-B Models Using Genetic Algorithms</title>
+      <link>https://ralucalefticaru.github.io/publication/2011_icsecs/</link>
+      <pubDate>Mon, 27 Jun 2011 00:00:00 +0100</pubDate>
+      
+      <guid>https://ralucalefticaru.github.io/publication/2011_icsecs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Search-Based Testing for Event-B Models</title>
+      <link>https://ralucalefticaru.github.io/publication/2011_icstw/</link>
+      <pubDate>Mon, 21 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://ralucalefticaru.github.io/publication/2011_icstw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards automated verification of P systems using Spin</title>
+      <link>https://ralucalefticaru.github.io/publication/2011_bwmc/</link>
+      <pubDate>Wed, 02 Feb 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://ralucalefticaru.github.io/publication/2011_bwmc/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
