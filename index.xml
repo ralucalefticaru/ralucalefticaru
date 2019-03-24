@@ -11,6 +11,67 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>SSBSE 2019 conference tracks and important dates</title>
+      <link>https://ralucalefticaru.github.io/post/ssbse2019/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ralucalefticaru.github.io/post/ssbse2019/</guid>
+      <description>
+
+&lt;h2 id=&#34;11th-symposium-on-search-based-software-engineering&#34;&gt;11th Symposium on Search-Based Software Engineering&lt;/h2&gt;
+
+&lt;h3 id=&#34;tallinn-estonia-31-aug-2-sep-2019&#34;&gt;Tallinn Estonia, 31 Aug - 2 Sep, 2019&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://ssbse19.mines-albi.fr/&#34; target=&#34;_blank&#34;&gt;SSBSE 2019&lt;/a&gt; will be collocated with the &lt;em&gt;27th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering&lt;/em&gt; (&lt;a href=&#34;https://esec-fse19.ut.ee/&#34; target=&#34;_blank&#34;&gt;ESEC/FSE 2019 conference&lt;/a&gt;).&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Conference proceedings: accepted papers will be published in a volume of the Springer &lt;em&gt;Lecture Notes in Computer Science series&lt;/em&gt; (LNCS).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;em&gt;Special issue for best papers:&lt;/em&gt; following the conference, the authors of the best manuscripts will be invited to extend their papers into full journal papers, for a Special Section of the &lt;em&gt;Information and Software Technology Journal&lt;/em&gt; (IST).&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;tracks-and-important-dates&#34;&gt;Tracks and Important Dates&lt;/h2&gt;
+
+&lt;h3 id=&#34;research-paper-track&#34;&gt;Research Paper Track&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Abstract submission: &lt;code&gt;March 22, 2019&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Full paper submission: &lt;code&gt;March 29, 2019&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Initial decisions and notification: May 3, 2019&lt;/li&gt;
+&lt;li&gt;Revised paper submission: May 17, 2019&lt;/li&gt;
+&lt;li&gt;Final decisions and notification: May 31, 2019&lt;/li&gt;
+&lt;li&gt;Camera–ready submission: June 15, 2019&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;journal-first-track&#34;&gt;Journal First Track&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Submission: &lt;code&gt;May 1, 2019&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Notification: June 1, 2019&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;short-student-track&#34;&gt;Short &amp;amp; Student Track&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Abstract submission: &lt;code&gt;May 10, 2019&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Paper submission: &lt;code&gt;May 17, 2019&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Author notification: June 14, 2019&lt;/li&gt;
+&lt;li&gt;Camera ready submission: June 21, 2019&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;challenge-track&#34;&gt;Challenge Track&lt;/h3&gt;
+
+&lt;p&gt;The SSBSE Challenge Track is an exciting opportunity for SBSE researchers to apply tools, techniques, and algorithms on real-world software.  The entrants of the SSBSE Challenge Track will compete for cash prizes totaling &lt;em&gt;1000€&lt;/em&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Submission: &lt;code&gt;June 1, 2019&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Notification: June 16, 2019&lt;/li&gt;
+&lt;li&gt;Camera ready: June 21, 2019&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>RoboTest</title>
       <link>https://ralucalefticaru.github.io/project/robotest/</link>
       <pubDate>Thu, 13 Sep 2018 00:00:00 +0100</pubDate>
@@ -133,15 +194,6 @@
       <pubDate>Mon, 25 Jul 2016 00:00:00 +0100</pubDate>
       
       <guid>https://ralucalefticaru.github.io/publication/2016_cmc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Towards agent-based simulation of kernel P systems using FLAME and FLAME GPU</title>
-      <link>https://ralucalefticaru.github.io/publication/2016_wmc/</link>
-      <pubDate>Mon, 11 Jul 2016 00:00:00 +0100</pubDate>
-      
-      <guid>https://ralucalefticaru.github.io/publication/2016_wmc/</guid>
       <description></description>
     </item>
     
