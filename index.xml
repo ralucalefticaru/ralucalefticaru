@@ -11,6 +11,44 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>RoboSoft: software engineering for robotics</title>
+      <link>https://ralucalefticaru.github.io/post/robosoft2019/</link>
+      <pubDate>Thu, 03 Oct 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://ralucalefticaru.github.io/post/robosoft2019/</guid>
+      <description>
+
+&lt;h2 id=&#34;robosoft-software-engineering-for-robotics&#34;&gt;RoboSoft: Software Engineering for Robotics&lt;/h2&gt;
+
+&lt;h3 id=&#34;london-uk-13-14-november-2019&#34;&gt;London, UK, 13-14 November, 2019&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.raeng.org.uk/events/events-programme/2019/november/robosoft-software-engineering-for-robotics?invID=E3AC16DA-7592-E911-80EA-005056817715&#34; target=&#34;_blank&#34;&gt;RoboSoft&lt;/a&gt; is a two-day event to bring together researchers representing groups working on themes relevant for Software Engineering for Robotics, developers working on the next-generation of robotic systems in various areas of application, and regulation authorities interested in safety of robotic systems. It provides a platform to establish Software Engineering for Robotics as an important discipline in Computer Science and Electronic Engineering. The objective is to establish a common understanding of the challenges that need to be faced to ensure that results are relevant to industrial practice and regulation.&lt;/p&gt;
+
+&lt;h2 id=&#34;programme&#34;&gt;Programme&lt;/h2&gt;
+
+&lt;p&gt;A detailed programme can be found &lt;a href=&#34;https://www.cs.york.ac.uk/robostar/robosoft/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Testing Robots Using CSP</title>
+      <link>https://ralucalefticaru.github.io/publication/2019_tap/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://ralucalefticaru.github.io/publication/2019_tap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Implementation Relation for Cyclic Systems with Refusals and Discrete Time</title>
+      <link>https://ralucalefticaru.github.io/publication/2019_sefm/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://ralucalefticaru.github.io/publication/2019_sefm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>SSBSE 2019 conference tracks and important dates</title>
       <link>https://ralucalefticaru.github.io/post/ssbse2019/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
@@ -167,33 +205,6 @@
       <pubDate>Tue, 28 Mar 2017 00:00:00 +0100</pubDate>
       
       <guid>https://ralucalefticaru.github.io/publication/2017_book_chapter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MuVeT</title>
-      <link>https://ralucalefticaru.github.io/project/muvet/</link>
-      <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://ralucalefticaru.github.io/project/muvet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Hybrid Test Generation Approach Based on Extended Finite State Machines</title>
-      <link>https://ralucalefticaru.github.io/publication/2016_synasc/</link>
-      <pubDate>Sat, 24 Sep 2016 00:00:00 +0100</pubDate>
-      
-      <guid>https://ralucalefticaru.github.io/publication/2016_synasc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Agent-Based Simulation of Kernel P Systems with Division Rules Using FLAME</title>
-      <link>https://ralucalefticaru.github.io/publication/2016_cmc/</link>
-      <pubDate>Mon, 25 Jul 2016 00:00:00 +0100</pubDate>
-      
-      <guid>https://ralucalefticaru.github.io/publication/2016_cmc/</guid>
       <description></description>
     </item>
     

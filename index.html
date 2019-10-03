@@ -14,7 +14,7 @@
   
   
   
-  <meta name="description" content="Research Associate">
+  <meta name="description" content="Lecturer in Computer Science">
 
   
   <link rel="alternate" hreflang="en-us" href="https://ralucalefticaru.github.io/">
@@ -102,7 +102,7 @@
   <meta property="og:site_name" content="Raluca Lefticaru">
   <meta property="og:url" content="https://ralucalefticaru.github.io/">
   <meta property="og:title" content="Raluca Lefticaru">
-  <meta property="og:description" content="Research Associate">
+  <meta property="og:description" content="Lecturer in Computer Science">
   <meta property="og:locale" content="en-us">
   
   <meta property="og:updated_time" content="2018-09-13T00:00:00&#43;01:00">
@@ -279,7 +279,7 @@
 
 
 
-<div class="row" itemprop="author" itemscope itemtype="http://schema.org/Person" itemref="person-email person-telephone person-address">
+<div class="row" itemprop="author" itemscope itemtype="http://schema.org/Person" itemref="person-email person-address">
   <div class="col-12 col-lg-4">
     <div id="profile">
 
@@ -290,11 +290,17 @@
 
       <div class="portrait-title">
         <h2 itemprop="name">Raluca Lefticaru</h2>
-        <h3 itemprop="jobTitle">Research Associate</h3>
+        <h3 itemprop="jobTitle">Lecturer in Computer Science</h3>
 
         
         
 
+        
+        <h3 itemprop="worksFor" itemscope itemtype="http://schema.org/Organization">
+          <a href="https://www.bradford.ac.uk/" target="_blank" itemprop="url" rel="noopener">
+          <span itemprop="name">University of Bradford</span>
+          </a>
+        </h3>
         
         <h3 itemprop="worksFor" itemscope itemtype="http://schema.org/Organization">
           <a href="https://www.sheffield.ac.uk/" target="_blank" itemprop="url" rel="noopener">
@@ -378,7 +384,8 @@
 
 <h1 id="biography">Biography</h1>
 
-<p>Raluca is a Research Associate at the University of Sheffield in the Department of Computer Science and a member of the <a href="https://www.sheffield.ac.uk/dcs/research/groups/testing" target="_blank">Testing Group</a>. Her research interests include formal specification methodologies, software testing, especially state-machine based testing using evolutionary approaches, P systems testing and verification. Recently, she started working in systematic model-based testing and simulation of mobile autonomous robots, in the EPSRC <a href="http://robotest.group.shef.ac.uk/" target="_blank">RoboTest</a> project, and collaborating with the <a href="https://www.cs.york.ac.uk/robostar/" target="_blank">RoboStar*</a> research group.</p>
+<p>Raluca is a Lecturer in Computer Science at the University of Bradford and a Visiting Researcher at the University of Sheffield, where she is a member of the <a href="https://www.sheffield.ac.uk/dcs/research/groups/testing" target="_blank">Testing Group</a>. Her research interests include formal specification methodologies, software testing, especially state-machine based testing using evolutionary approaches, P systems testing and verification.
+She is a also member of the <a href="https://www.cs.york.ac.uk/robostar/" target="_blank">RoboStar*</a> research group, collaborating in the EPSRC <a href="http://robotest.group.shef.ac.uk/" target="_blank">RoboTest</a> project on systematic model-based testing and simulation of mobile autonomous robots.</p>
 
 
     <div class="row">
@@ -461,6 +468,132 @@
     
 
     
+    
+      
+        <div class="pub-list-item card-simple" itemscope itemtype="http://schema.org/CreativeWork">
+
+  
+  
+
+  <h3 class="article-title" itemprop="name">
+    <a href="https://ralucalefticaru.github.io/publication/2019_tap/" itemprop="url">Testing Robots Using CSP</a>
+  </h3>
+
+  <div class="pub-abstract" itemprop="text">
+    
+    This paper presents a technique for automatic generation of tests for robotic systems based on a domain-specific notation called RoboChart. This is a UML-like diagrammatic notation that embeds a component model suitable for robotic systems, and supports the definition of behavioural models using enriched state machines that can feature time properties. The formal semantics of RoboChart is given using tock-CSP, a discrete-time variant of the process algebra CSP. In this paper, we use the example of a simple drone to illustrate an approach to generate tests from RoboChart models using a mutation tool called Wodel. From mutated models, tests are generated using the CSP model checker FDR. The testing theory of CSP justifies the soundness of the tests.
+    
+  </div>
+
+  <div class="pub-authors" itemprop="author">
+    
+    Ana Cavalcanti, James Baxter, Robert M. Hierons, Raluca Lefticaru
+    
+  </div>
+
+  <div class="pub-publication">
+    
+    In <em>TAP 2019</em>,
+    
+    2019
+  </div>
+
+  <div class="pub-links">
+    
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1007/978-3-030-31157-5_2" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://tap.sosy-lab.org/2019/index.php" target="_blank" rel="noopener">
+  Conference
+</a>
+
+
+  </div>
+
+</div>
+
+      
+    
+      
+        <div class="pub-list-item card-simple" itemscope itemtype="http://schema.org/CreativeWork">
+
+  
+  
+
+  <h3 class="article-title" itemprop="name">
+    <a href="https://ralucalefticaru.github.io/publication/2019_sefm/" itemprop="url">An Implementation Relation for Cyclic Systems with Refusals and Discrete Time</a>
+  </h3>
+
+  <div class="pub-abstract" itemprop="text">
+    
+    This paper explores a particular type of model, a cyclic model, in which there are sequences of observable actions separated by discrete time intervals, introduces a novel implementation relation and studies some properties of this relation. Implementation relations formalise what it means for an unknown model of the system under test (SUT) to be a correct implementation of a specification. Many implementation relations are variants of the well known ioco implementation relation, and this includes several timed versions of ioco. It transpires that the timed variants of ioco are not suitable for cyclic models. Our implementation relation encapsulates the discrete nature of time in cyclic models and takes into account not only the actions that models can perform but also the ones that they can refuse at each point of time. We prove that our implementation relation is a conservative extension of trace containment and present two alternative characterisations.
+    
+  </div>
+
+  <div class="pub-authors" itemprop="author">
+    
+    Raluca Lefticaru, Robert M. Hierons, Manuel Núñez
+    
+  </div>
+
+  <div class="pub-publication">
+    
+    In <em>SEFM 2019</em>,
+    
+    2019
+  </div>
+
+  <div class="pub-links">
+    
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1007/978-3-030-30446-1_21" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://sefm2019.inria.fr/" target="_blank" rel="noopener">
+  Conference
+</a>
+
+
+  </div>
+
+</div>
+
+      
     
       
         <div class="pub-list-item card-simple" itemscope itemtype="http://schema.org/CreativeWork">
@@ -625,6 +758,84 @@
     
 
     
+    
+      
+        <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <span itemprop="author">
+    Ana Cavalcanti, James Baxter, Robert M. Hierons, Raluca Lefticaru</span>.
+  <a href="https://ralucalefticaru.github.io/publication/2019_tap/" itemprop="name">Testing Robots Using CSP</a>.
+  In <em>TAP 2019</em>,
+  2019.
+  <p>
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1007/978-3-030-31157-5_2" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://tap.sosy-lab.org/2019/index.php" target="_blank" rel="noopener">
+  Conference
+</a>
+
+</p>
+</div>
+
+      
+    
+      
+        <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <span itemprop="author">
+    Raluca Lefticaru, Robert M. Hierons, Manuel Núñez</span>.
+  <a href="https://ralucalefticaru.github.io/publication/2019_sefm/" itemprop="name">An Implementation Relation for Cyclic Systems with Refusals and Discrete Time</a>.
+  In <em>SEFM 2019</em>,
+  2019.
+  <p>
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1007/978-3-030-30446-1_21" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://sefm2019.inria.fr/" target="_blank" rel="noopener">
+  Conference
+</a>
+
+</p>
+</div>
+
+      
     
       
         <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
@@ -914,80 +1125,6 @@
 
       
     
-      
-        <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <span itemprop="author">
-    Simon Andrew, Tony Day, Konstantinos Domdouzis, Laurence Hirsch, Raluca Lefticaru, Constantinos Orphanides</span>.
-  <a href="https://ralucalefticaru.github.io/publication/2017_book_chapter/" itemprop="name">Analyzing Crowd-Sourced Information and Social Media for Crisis Management</a>.
-  <em>Application of Social Media in Crisis Management</em>,
-  2017.
-  <p>
-
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1007/978-3-319-52419-1_6" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://link.springer.com/book/10.1007/978-3-319-52419-1" target="_blank" rel="noopener">
-  Springer Book
-</a>
-
-</p>
-</div>
-
-      
-    
-      
-        <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <span itemprop="author">
-    Ana Turlea, Florentin Ipate, Raluca Lefticaru</span>.
-  <a href="https://ralucalefticaru.github.io/publication/2016_synasc/" itemprop="name">A Hybrid Test Generation Approach Based on Extended Finite State Machines</a>.
-  In <em>SYNASC 2016</em>,
-  2016.
-  <p>
-
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1109/SYNASC.2016.037" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</p>
-</div>
-
-      
-    
 
   </div>
 </div>
@@ -1022,6 +1159,82 @@
       
 
       
+      
+
+        
+
+        
+        
+
+        
+        
+
+      
+      
+        
+        
+          
+
+<div class="card-simple" itemscope itemprop="blogPost" itemtype="http://schema.org/BlogPosting">
+  
+
+<div class="article-metadata">
+
+  
+  
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+    <meta itemprop="name" content="Raluca Lefticaru">
+  </span>
+  
+
+  <span class="article-date">
+    
+    <meta content="2019-10-03 00:00:00 &#43;0100 BST" itemprop="datePublished">
+    <time datetime="2019-10-03 00:00:00 &#43;0100 BST" itemprop="dateModified">
+      Oct 3, 2019
+    </time>
+  </span>
+  <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
+    <meta itemprop="name" content="Raluca Lefticaru">
+  </span>
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    1 min read
+  </span>
+  
+
+  
+  
+
+  
+
+  
+
+</div>
+
+
+  
+  
+  <h3 class="article-title" itemprop="headline">
+    <a href="https://ralucalefticaru.github.io/post/robosoft2019/" itemprop="url">RoboSoft: software engineering for robotics</a>
+  </h3>
+  <div class="article-style" itemprop="articleBody">
+    
+    <p>The RoboStar team is collaborating with the <a href="https://www.raeng.org.uk/" target="_blank">Royal Academy of Engineering</a> to organise a two-day event in November on Software Engineering for Robotics. Details can be found on the RoboSoft page and on the RAEng <a href="https://www.raeng.org.uk/events/events-programme/2019/november/robosoft-software-engineering-for-robotics?invID=E3AC16DA-7592-E911-80EA-005056817715" target="_blank">event page</a>.</p>
+    
+  </div>
+  <p class="read-more" itemprop="mainEntityOfPage">
+    <a href="https://ralucalefticaru.github.io/post/robosoft2019/" class="btn btn-outline-primary my-1">
+      CONTINUE READING
+    </a>
+  </p>
+</div>
+
+        
+      
+
       
 
         
@@ -1340,6 +1553,8 @@
 <h1 id="organizing-committees">Organizing Committees</h1>
 
 <ul>
+<li><p>Co-chair for the   <em>Advances in Model-Based Software Testing</em> (A-MOST 2020), Porto, Portugal, March, 2020</p></li>
+
 <li><p>Student and Short Paper Track Co-chair for the <em>11th Symposium on Search-Based Software Engineering</em> (<a href="http://ssbse19.mines-albi.fr/" target="_blank">SSBSE 2019</a>), Tallin, Estonia, 31 Aug–2 Sep, 2019</p></li>
 
 <li><p>Communication Chair for the <em>18th International Conference on Membrane Computing</em> (<a href="http://computing.brad.ac.uk/cmc18/" target="_blank">CMC18</a>), Bradford, UK, 24–28 July, 2017</p></li>
@@ -1427,7 +1642,7 @@
       
       <li>
         <i class="fa-li fas fa-envelope fa-2x" aria-hidden="true"></i>
-        <span id="person-email" itemprop="email"><a href="mailto:r.lefticaru@sheffield.ac.uk">r.lefticaru@sheffield.ac.uk</a></span>
+        <span id="person-email" itemprop="email"><a href="mailto:r.lefticaru@bradford.ac.uk">r.lefticaru@bradford.ac.uk</a></span>
       </li>
       
 
@@ -1435,11 +1650,6 @@
 
       
 
-      
-      <li>
-        <i class="fa-li fas fa-phone fa-2x" aria-hidden="true"></i>
-        <span id="person-telephone" itemprop="telephone"><a href="tel:&#43;44%20114%20222%201920">&#43;44 114 222 1920</a></span>
-      </li>
       
 
       
@@ -1449,7 +1659,7 @@
       
       <li>
         <i class="fa-li fas fa-map-marker fa-2x" aria-hidden="true"></i>
-        <span id="person-address" itemprop="address">Regent Court, 211 Portobello, Sheffield, S1 4DP, UK</span>
+        <span id="person-address" itemprop="address">Bradford, West Yorkshire, BD7 1DP, UK</span>
       </li>
       
 
