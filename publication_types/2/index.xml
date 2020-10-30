@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 08 Jul 2018 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2020 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://ralucalefticaru.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Fundamental results for learning deterministic extended finite state machines from queries</title>
+      <link>https://ralucalefticaru.github.io/publication/2020_tcs/</link>
+      <pubDate>Wed, 16 Sep 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://ralucalefticaru.github.io/publication/2020_tcs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementation relations and testing for cyclic systems with refusals and discrete time</title>
+      <link>https://ralucalefticaru.github.io/publication/2020_jss/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://ralucalefticaru.github.io/publication/2020_jss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A verified and optimized Stream X-Machine testing method, with application to cloud service certification</title>
+      <link>https://ralucalefticaru.github.io/publication/2020_stvr/</link>
+      <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ralucalefticaru.github.io/publication/2020_stvr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>P colonies and kernel P systems</title>

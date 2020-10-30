@@ -11,6 +11,107 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>A-MOST 2021 Call for Papers</title>
+      <link>https://ralucalefticaru.github.io/post/amost2021/</link>
+      <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ralucalefticaru.github.io/post/amost2021/</guid>
+      <description>
+
+&lt;h2 id=&#34;17th-workshop-on-advances-in-model-based-testing-a-most-2021&#34;&gt;17th Workshop on Advances in Model Based Testing (A-MOST 2021)&lt;/h2&gt;
+
+&lt;h3 id=&#34;april-2021&#34;&gt;April, 2021&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://icst2021.icmc.usp.br/home/a-most-2021&#34; target=&#34;_blank&#34;&gt;A-MOST 2021&lt;/a&gt; will be collocated with the &lt;em&gt;IEEE International Conference on Software Testing, Verification and Validation&lt;/em&gt; (&lt;a href=&#34;https://icst2021.icmc.usp.br/&#34; target=&#34;_blank&#34;&gt;ICST 2021&lt;/a&gt;).&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Proceedings: Accepted papers will be published in the IEEE Digital Library.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Paper format:  IEEE two-column publication format.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Full papers: 8 pages&lt;/li&gt;
+&lt;li&gt;Short papers: 4 pages&lt;/li&gt;
+&lt;li&gt;Journal first: 2 pages&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;important-dates&#34;&gt;Important Dates&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Paper submission: &lt;code&gt;Jan 10, 2021&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Notification: Jan 31, 2021&lt;/li&gt;
+&lt;li&gt;Camera–ready version: Feb 20, 2021&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spiking Neural P Systems Simulation and Verification</title>
+      <link>https://ralucalefticaru.github.io/publication/2020_bicas/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ralucalefticaru.github.io/publication/2020_bicas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A-MOST 2020 Program</title>
+      <link>https://ralucalefticaru.github.io/post/amost2020/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://ralucalefticaru.github.io/post/amost2020/</guid>
+      <description>
+
+&lt;h2 id=&#34;a-most-advances-in-model-based-testing&#34;&gt;A-MOST: Advances in Model-based Testing&lt;/h2&gt;
+
+&lt;h3 id=&#34;24-october-2020&#34;&gt;24 October, 2020&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://conf.researchr.org/home/a-most-2020&#34; target=&#34;_blank&#34;&gt;A-MOST&lt;/a&gt; is a one-day workshop bringing together researchers and practitioners to discuss state of the art, practice and future prospects in Model Based Testing (MBT).  It provides a platform to present new approaches, methods and tools to make MBT techniques (for automatic test case generation) more deployable and useful for industry than ever.&lt;/p&gt;
+
+&lt;h2 id=&#34;program&#34;&gt;Program&lt;/h2&gt;
+
+&lt;p&gt;A detailed program can be found &lt;a href=&#34;https://conf.researchr.org/home/a-most-2020#program&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fundamental results for learning deterministic extended finite state machines from queries</title>
+      <link>https://ralucalefticaru.github.io/publication/2020_tcs/</link>
+      <pubDate>Wed, 16 Sep 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://ralucalefticaru.github.io/publication/2020_tcs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spiking Neural P Systems - Matrix Representation and Formal Verification</title>
+      <link>https://ralucalefticaru.github.io/publication/2020_icmc/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://ralucalefticaru.github.io/publication/2020_icmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementation relations and testing for cyclic systems with refusals and discrete time</title>
+      <link>https://ralucalefticaru.github.io/publication/2020_jss/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://ralucalefticaru.github.io/publication/2020_jss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A verified and optimized Stream X-Machine testing method, with application to cloud service certification</title>
+      <link>https://ralucalefticaru.github.io/publication/2020_stvr/</link>
+      <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ralucalefticaru.github.io/publication/2020_stvr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>RoboSoft: software engineering for robotics</title>
       <link>https://ralucalefticaru.github.io/post/robosoft2019/</link>
       <pubDate>Thu, 03 Oct 2019 00:00:00 +0100</pubDate>
@@ -142,69 +243,6 @@
       <pubDate>Sun, 08 Jul 2018 00:00:00 +0100</pubDate>
       
       <guid>https://ralucalefticaru.github.io/publication/2018_p_colonies/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MACPS</title>
-      <link>https://ralucalefticaru.github.io/project/macps/</link>
-      <pubDate>Sat, 30 Jun 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://ralucalefticaru.github.io/project/macps/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Search based Model in the Loop Testing for Cyber Physical Systems</title>
-      <link>https://ralucalefticaru.github.io/publication/2018_from/</link>
-      <pubDate>Mon, 18 Jun 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://ralucalefticaru.github.io/publication/2018_from/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kernel P systems: From modelling to verification and testing</title>
-      <link>https://ralucalefticaru.github.io/publication/2018_tcs/</link>
-      <pubDate>Wed, 09 May 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://ralucalefticaru.github.io/publication/2018_tcs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Test Suite Generation Approach based on EFSMs using a multi-objective algorithm</title>
-      <link>https://ralucalefticaru.github.io/publication/2017_synasc/</link>
-      <pubDate>Thu, 21 Sep 2017 00:00:00 +0100</pubDate>
-      
-      <guid>https://ralucalefticaru.github.io/publication/2017_synasc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Modelling and Validating an Engineering Application in Kernel P Systems</title>
-      <link>https://ralucalefticaru.github.io/publication/2017_cmc/</link>
-      <pubDate>Wed, 26 Jul 2017 00:00:00 +0100</pubDate>
-      
-      <guid>https://ralucalefticaru.github.io/publication/2017_cmc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Towards an Integrated Approach to Verification and Model-Based Testing in System Engineering</title>
-      <link>https://ralucalefticaru.github.io/publication/2017_exter/</link>
-      <pubDate>Wed, 21 Jun 2017 00:00:00 +0100</pubDate>
-      
-      <guid>https://ralucalefticaru.github.io/publication/2017_exter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Analyzing Crowd-Sourced Information and Social Media for Crisis Management</title>
-      <link>https://ralucalefticaru.github.io/publication/2017_book_chapter/</link>
-      <pubDate>Tue, 28 Mar 2017 00:00:00 +0100</pubDate>
-      
-      <guid>https://ralucalefticaru.github.io/publication/2017_book_chapter/</guid>
       <description></description>
     </item>
     

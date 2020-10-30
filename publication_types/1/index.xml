@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ralucalefticaru.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Spiking Neural P Systems Simulation and Verification</title>
+      <link>https://ralucalefticaru.github.io/publication/2020_bicas/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ralucalefticaru.github.io/publication/2020_bicas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spiking Neural P Systems - Matrix Representation and Formal Verification</title>
+      <link>https://ralucalefticaru.github.io/publication/2020_icmc/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://ralucalefticaru.github.io/publication/2020_icmc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Testing Robots Using CSP</title>

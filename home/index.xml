@@ -22,6 +22,15 @@
     </item>
     
     <item>
+      <title>Recent Posts</title>
+      <link>https://ralucalefticaru.github.io/home/posts/</link>
+      <pubDate>Fri, 14 Sep 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://ralucalefticaru.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Selected Publications</title>
       <link>https://ralucalefticaru.github.io/home/publications_selected/</link>
       <pubDate>Fri, 14 Sep 2018 00:00:00 +0100</pubDate>
@@ -40,15 +49,6 @@
     </item>
     
     <item>
-      <title>Recent Posts</title>
-      <link>https://ralucalefticaru.github.io/home/posts/</link>
-      <pubDate>Fri, 14 Sep 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://ralucalefticaru.github.io/home/posts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Projects</title>
       <link>https://ralucalefticaru.github.io/home/projects/</link>
       <pubDate>Fri, 14 Sep 2018 00:00:00 +0100</pubDate>
@@ -63,10 +63,9 @@
       <pubDate>Fri, 14 Sep 2018 00:00:00 +0100</pubDate>
       
       <guid>https://ralucalefticaru.github.io/home/events/</guid>
-      <description> Organizing Committees  Co-chair for the Advances in Model-Based Software Testing (A-MOST 2020), Porto, Portugal, March, 2020
- Student and Short Paper Track Co-chair for the 11th Symposium on Search-Based Software Engineering (SSBSE 2019), Tallin, Estonia, 31 Aug–2 Sep, 2019
- Communication Chair for the 18th International Conference on Membrane Computing (CMC18), Bradford, UK, 24–28 July, 2017
-  Program Committees  19th International Conference on Membrane Computing (CMC19), Dresden, Germany, September 2018 Workshop on Membrane Computing at UCNC 2018 (WMC 2018), Fontainebleau, France, June 2018 International Workshop on Engineering Data- &amp;amp; Model-driven Applications (EDMA-2017) joined with 10th IEEE International Conference on Cyber, Physical and Social Computing (IEEE CPSCom-2017), Exeter, UK, June 2017 8th Symposium on Search-Based Software Engineering (SSBSE 2016), Raleigh, North Carolina, USA, October 2016 7th Symposium on Search-Based Software Engineering (SSBSE 2015), Bergamo, Italy, September 2015 4th Workshop on Formal Methods in the Development of Software (WS-FMDS 2014), Grenoble, France, September 2014 2nd International Workshop on Cloud Service Brokerage (CSB 2014), Manchester, UK, September 2014 6th Symposium on Search-Based Software Engineering (SSBSE 2014), Fortaleza, Brazil, August 2014 3rd Workshop on Formal Methods in the Development of Software (WS-FMDS 2013), Madrid, Spain, September 2013 2nd Workshop on Formal Methods in the Development of Software (WS-FMDS 2012), Paris, France, August 2012 3rd Workshop on Model-based Testing in Practice (MOTIP 2010), Paris, France, June 2010 2nd Workshop on Model-based Testing in Practice (MOTIP 2009), Enschede, The Netherlands, June 2009  </description>
+      <description>Organizing Committees  Co-chair for the 17th Workshop on Advances in Model-Based Testing (A-MOST 2021), co-located with the 14th IEEE International Conference on Software Testing, Verification and Validation (ICST 2021), April, 2021, online
+ Co-chair for the 16th Workshop on Advances in Model-Based Testing (A-MOST 2020), co-located with the 13th IEEE International Conference on Software Testing, Verification and Validation (ICST 2020), October, 2020, online
+ Student and Short Paper Track Co-chair for the 11th Symposium on Search-Based Software Engineering (SSBSE 2019), Tallin, Estonia, 31 Aug–2 Sep, 2019</description>
     </item>
     
     <item>
